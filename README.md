@@ -78,12 +78,12 @@ Als je het volgende decimale getal hebt (let op van decimaal omrekenen naar deci
 ```
 65536
 ```
-Als je de indexen van deze getallen erboven zou zetten dan zou het er als volgt uit zien:
+Als je de indici van deze getallen erboven zou zetten dan zou het er als volgt uit zien:
 ```
 43210
 65536
 ```
-De indexen beginnen dus van het meest rechtse getal af bij 0 en tellen daarvanuit naar links op.
+De indici beginnen dus van het meest rechtse getal af bij 0 en tellen daarvanuit naar links op.
 
 Als we het getal dan uitrekenen door de formule in te vullen voor elk getal dan krijgen we de volgende berekening:
 * Cijfer 6: `x * ß^i` = `6 * ß^i` = `6 * 10^i` = `6 * 10^4` = 60000
@@ -101,7 +101,7 @@ Als we nu hetzelfde trucje bij een binair getal hanteren:
 10101
 ```
 
-(Ik heb hier het opschrijven van de indexen overgeslagen)
+(Ik heb hier het opschrijven van de indici overgeslagen)
 * Cijfer 1: `x * ß^i` = `1 * ß^i` = `1 * 2^i` = `1 * 2^4` = 16
 * Cijfer 0: `0 * 2^3` = 0
 * Cijfer 1: `1 * 2^2` = 4
@@ -161,6 +161,6 @@ Succes!
 
 ### Notities
 * Je kunt stap 2a., het omrekenen naar decimaal, ook overslaan en dat pas op het eind doen maar dat maakt de berekening naar mijn mening significant lastiger.
-* Als je 2 hokjes van een kolom hebt berekent dan kun je waarschijnlijk een patroon herkennen en de andere getallen gewoon 'doortrekken'.
+* Als je 2 hokjes van een kolom hebt berekend dan kun je waarschijnlijk een patroon herkennen en de andere getallen gewoon 'doortrekken'.
 
 
