@@ -9,6 +9,15 @@ Je krijgt de volgende gegevens altijd gegeven:
 * emax - De upperbound van de exponentenrange
 
 ### 1a. De x-as (bovenkant van de tabel) vul je met alle waardes van emin t/m emax.
+Dus als je emin `-2` is en je emax is `3` dan krijg je de volgende getallenreeks op de x-as: 
+```
+-2 -1 0 1 2 3
+```
+
+Dus als je emin `1` is en je emax is `2` dan krijg je de volgende getallenreeks op de x-as:
+```
+1 2 3
+```
 
 ### 1b. De y-as vul je in met alle mogelijkheden van je base in combinatie met je P-digits.
 
