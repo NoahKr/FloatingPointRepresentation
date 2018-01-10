@@ -86,11 +86,11 @@ Als je de indexen van deze getallen erboven zou zetten dan zou het er als volgt 
 De indexen beginnen dus van het meest rechtse getal af bij 0 en tellen daarvanuit naar links op.
 
 Als we het getal dan uitrekenen door de formule in te vullen voor elk getal dan krijgen we de volgende berekening:
-Cijfer 6: `x * ß^i` = `6 * ß^i` = `6 * 10^i` = `6 * 10^4` = 60000
-Cijfer 5: `5 * 10^3` = 5000
-Cijfer 5: `5 * 10^2` = 500
-Cijfer 3: `5 * 10^1` = 30
-Cijfer 5: `6 * 10^0` = 6
+* Cijfer 6: `x * ß^i` = `6 * ß^i` = `6 * 10^i` = `6 * 10^4` = 60000
+* Cijfer 5: `5 * 10^3` = 5000
+* Cijfer 5: `5 * 10^2` = 500
+* Cijfer 3: `5 * 10^1` = 30
+* Cijfer 5: `6 * 10^0` = 6
 
 Als we alle optellen: `60000 + 5000 + 500 + 30 + 6` = 65536
 
@@ -102,11 +102,11 @@ Als we nu hetzelfde trucje bij een binair getal hanteren:
 ```
 
 (Ik heb hier het opschrijven van de indexen overgeslagen)
-Cijfer 1: `x * ß^i` = `1 * ß^i` = `1 * 2^i` = `1 * 2^4` = 16
-Cijfer 0: `0 * 2^3` = 0
-Cijfer 1: `1 * 2^2` = 4
-Cijfer 0: `0 * 2^1` = 0
-Cijfer 1: `1 * 2^0` = 1
+* Cijfer 1: `x * ß^i` = `1 * ß^i` = `1 * 2^i` = `1 * 2^4` = 16
+* Cijfer 0: `0 * 2^3` = 0
+* Cijfer 1: `1 * 2^2` = 4
+* Cijfer 0: `0 * 2^1` = 0
+* Cijfer 1: `1 * 2^0` = 1
 
 Het totaal is dan `16 + 0 + 4 + 0 + 1` = 21.
 
@@ -129,14 +129,14 @@ Als we dan alles samenvoegen om het volgende binaire getal om te rekenen naar de
 ```
 11001.101
 ```
-Cijfer 1: `x * ß^i` = `1 * ß^i` = `1 * 2^i` = `1 * 2^4` = 16
-Cijfer 1: `0 * 2^3` = 8
-Cijfer 0: `1 * 2^2` = 0
-Cijfer 0: `0 * 2^1` = 0
-Cijfer 1: `1 * 2^0` = 1
-Cijfer 1: `1 * 2^-1` = 0.5
-Cijfer 0: `0 * 2^-2` = 0
-Cijfer 1: `1 * 2^-3` = 0.125
+* Cijfer 1: `x * ß^i` = `1 * ß^i` = `1 * 2^i` = `1 * 2^4` = 16
+* Cijfer 1: `0 * 2^3` = 8
+* Cijfer 0: `1 * 2^2` = 0
+* Cijfer 0: `0 * 2^1` = 0
+* Cijfer 1: `1 * 2^0` = 1
+* Cijfer 1: `1 * 2^-1` = 0.5
+* Cijfer 0: `0 * 2^-2` = 0
+* Cijfer 1: `1 * 2^-3` = 0.125
 
 Alles opgeteld is dan: `16 + 8 + 0 + 0 +1 + 0.5 + 0 + 0.125` = 25.625
 
