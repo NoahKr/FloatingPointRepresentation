@@ -1,4 +1,4 @@
-# Stappenplan floating point represenatie tabel ding:
+# Stappenplan floating point represenatie tabel ding
 
 ## 1. Initialiseren van de tabel
 
