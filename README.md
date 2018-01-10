@@ -70,9 +70,9 @@ Voor elk van de hokjes moet je de volgende stappen ondernemen:
 Het omrekenen van alle getallen naar decimaal doe je door de volgende formule te hanteren voor elk apart cijfer in een getal en het resultaat bij elkaar op te tellen:
 ```x * ß^i```
 
-`x` staat hier voor het getal dat je wilt omrekenen.
-`ß` staat hier voor de base waarvanuit je rekent (dus als vanuit binair, dan is je base 2)
-`i` staat hier voor de index/positie van het getal.
+* `x` staat hier voor het getal dat je wilt omrekenen.
+* `ß` staat hier voor de base waarvanuit je rekent (dus als vanuit binair, dan is je base 2)
+* `i` staat hier voor de index/positie van het getal.
 
 Als je het volgende decimale getal hebt (let op van decimaal omrekenen naar decimaal blijft uiteraard hetzelfde getal. Dit is enkel ter voorbeeld):
 ```
@@ -144,9 +144,9 @@ Alles opgeteld is dan: `16 + 8 + 0 + 0 +1 + 0.5 + 0 + 0.125` = 25.625
 Om de eindwaarde te berekenen moet de volgende formule hanteren:
 ```d.ddd... *  ß^e```
 
-`d.ddd...` staat hier voor het naar-decimaal-omgerekende getal
-`ß` staat hier voor de base waarvanuit je rekent (dus bij binair 2 bijvoorbeeld)
-`e` staat hier voor de exponent, dat is de waarde in de kolom op de x-as die hoort bij het hokje dat je wilt invullen.
+* `d.ddd...` staat hier voor het naar-decimaal-omgerekende getal
+* `ß` staat hier voor de base waarvanuit je rekent (dus bij binair 2 bijvoorbeeld)
+* `e` staat hier voor de exponent, dat is de waarde in de kolom op de x-as die hoort bij het hokje dat je wilt invullen.
 
 Dus stel je wilt het hokje bereken waarvan de y-as waarde `1.01` is en de x-as waarde `-2` en je gegeven Base is 2.
 Dan moet je, zoals bij 2a beschreven, eerst het getal omrekenen naar decimaal.
