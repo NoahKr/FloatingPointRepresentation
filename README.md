@@ -140,7 +140,26 @@ Cijfer 1: `1 * 2^-3` = 0.125
 
 Alles opgeteld is dan: `16 + 8 + 0 + 0 +1 + 0.5 + 0 + 0.125` = 25.625
 
+#### 2b. Het uitrekenen van de eindwaarde (dat in het vakje/hokje moet)
+Om de eindwaarde te berekenen moet de volgende formule hanteren:
+```d.ddd... *  ß^e```
 
+`d.ddd...` staat hier voor het naar-decimaal-omgerekende getal
+`ß` staat hier voor de base waarvanuit je rekent (dus bij binair 2 bijvoorbeeld)
+`e` staat hier voor de exponent, dat is de waarde in de kolom op de x-as die hoort bij het hokje dat je wilt invullen.
 
+Dus stel je wilt het hokje bereken waarvan de y-as waarde `1.01` is en de x-as waarde `-2` en je gegeven Base is 2.
+Dan moet je, zoals bij 2a beschreven, eerst het getal omrekenen naar decimaal.
+
+Dat is in dit geval: `1,25`
+
+Vervolgens kan je de formule invullen:
+`d.ddd... *  ß^e` = `1,25 *  ß^e` = `1,25 *  2^e` = `1,25 *  2^-2` = `1,25 * 0.25` = 0.3125
+
+Doe dat voor alle hokjes en je bent er.
+Succes!
+
+### Notities
+Je kunt stap 2a. het omrekenen naar decimaal ook overslaan en dat pas op het eind doen maar dat maakt de berekening significant lastiger.
 
 
