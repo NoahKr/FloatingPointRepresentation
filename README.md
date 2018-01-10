@@ -160,6 +160,7 @@ Doe dat voor alle hokjes en je bent er.
 Succes!
 
 ### Notities
-Je kunt stap 2a. het omrekenen naar decimaal ook overslaan en dat pas op het eind doen maar dat maakt de berekening significant lastiger.
+* Je kunt stap 2a., het omrekenen naar decimaal, ook overslaan en dat pas op het eind doen maar dat maakt de berekening naar mijn mening significant lastiger.
+* Als je 2 hokjes van een kolom hebt berekent dan kun je waarschijnlijk een patroon herkennen en de andere getallen gewoon 'doortrekken'.
 
 
