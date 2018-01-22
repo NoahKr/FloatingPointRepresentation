@@ -98,8 +98,8 @@ Als we het getal dan uitrekenen door de formule in te vullen voor elk getal dan 
 * Cijfer 6: `x * ß^i` = `6 * ß^i` = `6 * 10^i` = `6 * 10^4` = 60000
 * Cijfer 5: `5 * 10^3` = 5000
 * Cijfer 5: `5 * 10^2` = 500
-* Cijfer 3: `5 * 10^1` = 30
-* Cijfer 5: `6 * 10^0` = 6
+* Cijfer 3: `3 * 10^1` = 30
+* Cijfer 6: `6 * 10^0` = 6
 
 Als we alle optellen: `60000 + 5000 + 500 + 30 + 6` = 65536
 
