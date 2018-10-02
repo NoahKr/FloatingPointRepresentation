@@ -1,4 +1,4 @@
-# Stappenplan floating point represenatie tabel ding
+# Stappenplan floating point representatie tabel ding
 
 ## 1. Initialiseren van de tabel
 
@@ -23,7 +23,7 @@ Dus als je emin `1` is en je emax is `2` dan krijg je de volgende getallenreeks 
 
 De Base beschrijft alle mogelijke getallen die je hebt. Bij een base van 10 (decimaal) zijn alle mogelijke getallen 0-9 en bij een base van 2 (binair) zijn de mogelijke getallen 0-1. Bij een base van 3 zijn de mogelijke getallen 0-2.
 
-De P-digits beschrijft het aantal significante cijfers, simpel gezegd zijn dat het aantal getallen dat laten zien wordt. Het getal 1 zou met P-digits 3 gerepresenteerd worden als 1,00, met P-digits 2 als 1,0 en als P-digits 1 als 1.
+De P-digits beschrijft het aantal significante cijfers, simpel gezegd zijn dat het aantal getallen die worden getoond. Het getal 1 zou met P-digits 3 gerepresenteerd worden als 1,00, met P-digits 2 als 1,0 en als P-digits 1 als 1.
 
 Het aantal mogelijkheden bepaal je dan door elk getal in de getalreeks in te vullen voor elk plekje van de P-digits zonder duplicaten. Dat klinkt ingewikkeld maar het is bij Base 2 en P-digits 2 dit:
 ```
